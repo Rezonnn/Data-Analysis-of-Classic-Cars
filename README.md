@@ -1,14 +1,14 @@
 # 🚗 MTCars Performance Analysis in R
 
 A small but polished **R data analysis project** using the built-in `mtcars` dataset.  
-Good for your GitHub to showcase:
+My project showcases:
 
 - R scripting
 - Exploratory Data Analysis (EDA)
 - Visualization with **ggplot2**
 - Simple linear regression modeling
 
-The project includes both:
+This project includes both:
 
 - An **R Markdown report** (`mtcars_analysis.Rmd`) – nice for knitted HTML/PDF output
 - A standalone **R script** (`mtcars_analysis.R`) – runs the analysis and saves plots to disk
@@ -74,5 +74,3 @@ r_mtcars_analysis/
 ├─ mtcars_analysis.Rmd    # Full narrative report
 └─ mtcars_analysis.R      # Script version that saves plots
 ```
-
-You can commit this as a standalone GitHub repo to showcase your **R + data analysis** skills.
